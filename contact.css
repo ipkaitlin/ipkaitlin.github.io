@@ -1,0 +1,138 @@
+.contactimage {
+  filter: brightness(40%);
+  length:600px; 
+  width:1440px;
+  position: absolute;
+}
+
+.contacth1 {
+  font-family: 'Montserrat', sans-serif;
+  z-index: 3;
+  position: absolute;
+  color: white;
+  font-size: 100px;
+  text-decoration: underline gold;
+  margin-left: 100px;
+  margin-top: 255px;
+}
+
+.contactp {
+  font-family: 'Open Sans', sans-serif;
+  z-index: 4;
+  position: absolute;
+  color: white;
+  font-size: 18px;
+  margin-top: 400px;
+  margin-left: 105px;
+  width: 600px;
+}
+
+.insta {
+  background-color: white;
+  border-radius: 100%;
+  position: absolute;
+  z-index: 5;
+  padding: 25px;
+  margin-top: 550px;
+  margin-left: 1125px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  cursor: pointer;
+}
+
+.insta:hover {
+  opacity: 70%;
+  transition: opacity 0.1s;
+}
+
+.linkedin {
+  background-color: white;
+  border-radius: 100%;
+  position: absolute;
+  z-index: 5;
+  padding: 25px;
+  margin-top: 550px;
+  margin-left: 1250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  cursor: pointer;
+}
+
+.linkedin:hover {
+  opacity: 70%;
+  transition: opacity 0.1s;
+}
+
+.facebook {
+  background-color: white;
+  border-radius: 100%;
+  position: absolute;
+  z-index: 5;
+  padding: 25px;
+  margin-top: 550px;
+  margin-left: 1000px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  cursor: pointer;
+}
+
+.facebook:hover {
+  opacity: 70%;
+  transition: opacity 0.1s;
+}
+
+.emailme {
+  position: absolute;
+  z-index: 5;
+  margin-top: 750px;
+  margin-left: 130px;
+  margin-bottom: 100px;
+  width: 560px;
+  height: 500px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+.emailimg {
+  margin:30px;
+  margin-top: 80px;
+  filter: brightness(105%)
+}
+
+.emailtext1 {
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-decoration: underline gold;
+}
+
+.emailtext2 {
+  font-size: 18px;
+}
+
+.callme {
+  position: absolute;
+  z-index: 5;
+  margin-top: 750px;
+  margin-left: 750px;
+  margin-bottom: 100px;
+  width: 560px;
+  height: 500px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+.callimg {
+  margin:30px;
+  margin-top: 80px;
+}
+
+.calltext1 {
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-decoration: underline gold;
+}
+
+.calltext2 {
+  font-size: 18px;
+}
